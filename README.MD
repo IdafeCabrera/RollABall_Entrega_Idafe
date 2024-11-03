@@ -1,7 +1,9 @@
 # 🎮 Roll-a-Ball Adventure Game
 
 ## 📝 Descripción
-Roll-a-Ball Adventure es un juego 3D desarrollado en Unity donde controlas una bola que debe recolectar anillos mientras esquiva enemigos. El juego combina elementos de plataformas, recolección y evasión, creando una experiencia desafiante y divertida.
+Roll-a-Ball Adventure es un juego 3D desarrollado en Unity donde controlas una bola que debe recolectar anillos mientras esquiva enemigos. El juego combina elementos de plataformas, recolección y evasón, creando una experiencia desafiante y divertida.
+
+Roll-a-Ball Adventure evoluciona el concepto clásico de Roll-a-Ball, incorporando mecánicas avanzadas de juego, sistemas dinámicos de dificultad y efectos cinematográficos. El proyecto destaca por su implementación de zonas de peligro dinámicas, efectos de tensión en la cámara y un sistema de audio adaptativo que mejora la inmersión del jugador.
 
 ## 🎯 Objetivo del Juego
 El objetivo principal es recolectar 10 anillos distribuidos por el nivel mientras evitas a los enemigos. Al recoger el último anillo, se activará una secuencia de victoria con efectos especiales y sonidos.
@@ -20,6 +22,39 @@ El objetivo principal es recolectar 10 anillos distribuidos por el nivel mientra
 - **E**: Rotar cámara a la derecha (90 grados)
 - **R**: Inclinar cámara hacia arriba
 - **F**: Inclinar cámara hacia abajo
+
+
+## 🎯 Características Principales
+## 🕹️ Mecánicas Core
+
+Control físico realista mediante Rigidbody con velocidad angular y lineal personalizadas
+Sistema de doble salto con control aéreo variable
+Detección de suelo mediante raycasting para precisión en saltos
+´´´csharp
+public class PlayerController : MonoBehaviour
+{
+    private bool IsGrounded;
+    public float airControl = 0.5f;
+    
+    private void FixedUpdate()
+    {
+        Vector3 movement = new Vector3(moveX, 0, moveY);
+
+        // Control diferenciado en tierra y aire
+        if (IsGrounded)
+        {
+            rb.AddForce(movement * velocity);
+        }
+        else
+        {
+            rb.AddForce(movement * velocity * airControl);
+        }
+        
+        // Fricción suave
+        rb.velocity = new Vector3(rb.velocity.x * 0.9f, rb.velocity.y, rb.velocity.z * 0.9f);
+    }
+}
+´´´
 
 ## 🎮 Mecánicas de Juego
 
