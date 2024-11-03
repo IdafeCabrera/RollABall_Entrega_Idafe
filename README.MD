@@ -30,7 +30,7 @@ El objetivo principal es recolectar 10 anillos distribuidos por el nivel mientra
 Control físico realista mediante Rigidbody con velocidad angular y lineal personalizadas
 Sistema de doble salto con control aéreo variable
 Detección de suelo mediante raycasting para precisión en saltos
-´´´csharp
+
 public class PlayerController : MonoBehaviour
 {
     private bool IsGrounded;
@@ -54,7 +54,7 @@ public class PlayerController : MonoBehaviour
         rb.velocity = new Vector3(rb.velocity.x * 0.9f, rb.velocity.y, rb.velocity.z * 0.9f);
     }
 }
-´´´
+
 
 ## 🎮 Mecánicas de Juego
 
