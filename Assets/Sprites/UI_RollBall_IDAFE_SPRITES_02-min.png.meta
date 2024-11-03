@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 0c122217ed4901641b5499814ebce441
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_RollBall_IDAFE_SPRITES_02-min_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 315
+        width: 690
+        height: 741
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da2cc7b2df12f34982190dd42420387
+      internalID: -672299783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_RollBall_IDAFE_SPRITES_02-min_2
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 477
+        width: 536
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8f94a87004ee64887bea18e8021032
+      internalID: -319171898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_RollBall_IDAFE_SPRITES_02-min_20
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 5
+        width: 433
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d179981a2db2c844386e464dd0e65afd
+      internalID: 775807537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 86b8409bd47198542acd4575c51e7e68
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_RollBall_IDAFE_SPRITES_02-min_0: -672299783
+      UI_RollBall_IDAFE_SPRITES_02-min_1: -1381644041
+      UI_RollBall_IDAFE_SPRITES_02-min_10: 2061342237
+      UI_RollBall_IDAFE_SPRITES_02-min_11: -540934480
+      UI_RollBall_IDAFE_SPRITES_02-min_12: 905096670
+      UI_RollBall_IDAFE_SPRITES_02-min_13: -519905616
+      UI_RollBall_IDAFE_SPRITES_02-min_14: -1566471283
+      UI_RollBall_IDAFE_SPRITES_02-min_15: -1198609320
+      UI_RollBall_IDAFE_SPRITES_02-min_16: -1326912609
+      UI_RollBall_IDAFE_SPRITES_02-min_17: 1903085709
+      UI_RollBall_IDAFE_SPRITES_02-min_18: 825005411
+      UI_RollBall_IDAFE_SPRITES_02-min_19: 947425946
+      UI_RollBall_IDAFE_SPRITES_02-min_2: -319171898
+      UI_RollBall_IDAFE_SPRITES_02-min_20: 775807537
+      UI_RollBall_IDAFE_SPRITES_02-min_21: 1860030964
+      UI_RollBall_IDAFE_SPRITES_02-min_22: 1989155639
+      UI_RollBall_IDAFE_SPRITES_02-min_23: 1080405511
+      UI_RollBall_IDAFE_SPRITES_02-min_3: -393994467
+      UI_RollBall_IDAFE_SPRITES_02-min_4: -1525544959
+      UI_RollBall_IDAFE_SPRITES_02-min_5: -273517437
+      UI_RollBall_IDAFE_SPRITES_02-min_6: 1623643139
+      UI_RollBall_IDAFE_SPRITES_02-min_7: -1875261964
+      UI_RollBall_IDAFE_SPRITES_02-min_8: -1529769564
+      UI_RollBall_IDAFE_SPRITES_02-min_9: -1517499449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
