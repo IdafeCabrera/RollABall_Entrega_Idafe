@@ -23,6 +23,9 @@ El objetivo principal es recolectar 10 anillos distribuidos por el nivel mientra
 - **E**: Rotar cámara a la derecha (90 grados)
 - **R**: Inclinar cámara hacia arriba
 - **F**: Inclinar cámara hacia abajo
+- **V**: Camara 2 **T** y **Y** para manejar Zoom
+- **B**: Camara 1 
+
 - **Mouse Wheel**: Zoom dinámico // por implementar
 
 ## 🎮 Mecánicas de Juego
@@ -232,14 +235,14 @@ Versión 1.0.0
 Idafe Cabrera Toledo
 www.idafecabrera.com
 
-## Tutoriales de ayuda
+## 😄 Tutoriales de ayuda
 Curso de udemy - Unity 6 y C# Desarrollo de Videojuegos + Unity Muse IA
 Creado por Casta Tutors
 
 ## 👨‍💻 Tutor 
 Tiburcio Cruz Ravelo
 
-## Credits
+## 😄 Credits
 
 A falta de mostrar unos creditos de los assets utilizados, que por ahora solo son el personaje del fantasma.
 
@@ -247,11 +250,11 @@ Todas las imagenes de la UI/UX han sido generadas por AI y la canción cuando re
 
 Lo demás esta libre de derecho de autor, a falta de una comprobación exhaustiva.
 
-## Ideas
+## 😄 Ideas
 
 Ideas generales dinamicas por el autor, para implementarnas utilice todas las herramientas posibles y recursos, como tutoriales, apuntes del tutor de la asignatura, foros y chats de AI.
 
-## Intenciones
+## 😄 Intenciones
 
 Terminar de mejorar y pulir todo lo relacionado con el video juego, utilizando principios SOLID y CLEAN CODE, para llegar a una versión completa de al menos 5 niveles y un nivel tipo BONUS.
 
