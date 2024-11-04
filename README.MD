@@ -16,14 +16,14 @@ El objetivo principal es recolectar 10 anillos distribuidos por el nivel mientra
 - **A/←**: Mover hacia la izquierda
 - **D/→**: Mover hacia la derecha
 - **Espacio**: Saltar / Doble salto
-- **Shift**: Sprint
+- **Shift**: Sprint // por implementar
 
 ### Control de Cámara
 - **Q**: Rotar cámara a la izquierda (90 grados)
 - **E**: Rotar cámara a la derecha (90 grados)
 - **R**: Inclinar cámara hacia arriba
 - **F**: Inclinar cámara hacia abajo
-- **Mouse Wheel**: Zoom dinámico
+- **Mouse Wheel**: Zoom dinámico // por implementar
 
 ## 🎮 Mecánicas de Juego
 
@@ -133,7 +133,7 @@ public class Enemy02 : MonoBehaviour
 }
 ```
 
-### 🌋 Zonas de Peligro
+### 🌋 Zonas de Peligro // no implementado del todo, esta preparado en parte
 Sistema dinámico que modifica el comportamiento del juego:
 - Modificación en tiempo real del comportamiento de enemigos.
 - Efectos visuales mediante shader personalizado.
@@ -239,4 +239,12 @@ Creado por Casta Tutors
 
 ## 👨‍💻 Tutor 
 Tiburcio Cruz Ravelo
+
+## Credits
+
+A falta de mostrar unos creditos de los assets utilizados que son solo el personaje del fantasma que donde me lo baje tengo que hacer una referencia al autor.
+
+Todas las imagenes UI han sido generadas por AI y la canción cuando recoges todos los anillas por AI (www.sonoai.ai)
+
+Ideas generales dinamicas por el autor, para implementarnas utilice todas las herramientas posibles y recursos, como tutoriales, apuntes del tutor de la asignatura, foros y chats de AI.
 
