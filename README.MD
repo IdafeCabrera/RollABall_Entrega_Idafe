@@ -229,7 +229,8 @@ Las contribuciones son bienvenidas. Por favor, revisa CONTRIBUTING.md para las g
 Versión 1.0.0
 
 ## 👨‍💻 Autor
-[Idafe Cabrera Toledo]
+Idafe Cabrera Toledo
+www.idafecabrera.com
 
 ## Tutoriales de ayuda
 Curso en udemy
@@ -247,4 +248,10 @@ A falta de mostrar unos creditos de los assets utilizados que son solo el person
 Todas las imagenes UI han sido generadas por AI y la canción cuando recoges todos los anillas por AI (www.sonoai.ai)
 
 Ideas generales dinamicas por el autor, para implementarnas utilice todas las herramientas posibles y recursos, como tutoriales, apuntes del tutor de la asignatura, foros y chats de AI.
+
+## Intenciones
+
+Terminar de mejorar y pulir todo lo relacionado con el video juego, utilizando principios SOLID y CLEAN CODE, para llegar a una versión completa de al menos 5 niveles y un nivel tipo BONUS.
+
+Referencias y guiños a videojuegos existentes que se quiere conseguir a SONIC y SUPER MARIO BROS.
 
