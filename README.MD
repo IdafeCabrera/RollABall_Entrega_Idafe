@@ -219,10 +219,10 @@ public class AudioManager : MonoBehaviour
 3. Instalar los paquetes requeridos desde el Package Manager.
 4. Abrir la escena principal en `Assets/Scenes`.
 
-## 📜 Licencia
+## 📜 Licencia // por añadir
 Este proyecto está bajo la Licencia MIT. Ver LICENSE.md para más detalles.
 
-## 🤝 Contribuciones
+## 🤝 Contribuciones // por añadir
 Las contribuciones son bienvenidas. Por favor, revisa CONTRIBUTING.md para las guías de estilo y proceso.
 
 ## 🎮 Versión del Juego
@@ -233,9 +233,7 @@ Idafe Cabrera Toledo
 www.idafecabrera.com
 
 ## Tutoriales de ayuda
-Curso en udemy
-Unity 6 y C# Desarrollo de Videojuegos + Unity Muse IA
-Curso de fundamentos de Unity donde abordaremos todas las áreas de desarrollo desde cero iniciando por los fundamentos
+Curso de udemy - Unity 6 y C# Desarrollo de Videojuegos + Unity Muse IA
 Creado por Casta Tutors
 
 ## 👨‍💻 Tutor 
@@ -243,9 +241,13 @@ Tiburcio Cruz Ravelo
 
 ## Credits
 
-A falta de mostrar unos creditos de los assets utilizados que son solo el personaje del fantasma que donde me lo baje tengo que hacer una referencia al autor.
+A falta de mostrar unos creditos de los assets utilizados, que por ahora solo son el personaje del fantasma.
 
-Todas las imagenes UI han sido generadas por AI y la canción cuando recoges todos los anillas por AI (www.sonoai.ai)
+Todas las imagenes de la UI/UX han sido generadas por AI y la canción cuando recoges todos los anillas por AI (www.sonoai.ai)
+
+Lo demás esta libre de derecho de autor, a falta de una comprobación exhaustiva.
+
+## Ideas
 
 Ideas generales dinamicas por el autor, para implementarnas utilice todas las herramientas posibles y recursos, como tutoriales, apuntes del tutor de la asignatura, foros y chats de AI.
 
