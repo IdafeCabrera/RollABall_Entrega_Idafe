@@ -23,7 +23,7 @@ El objetivo principal es recolectar 10 anillos distribuidos por el nivel mientra
 - **E**: Rotar cámara a la derecha (90 grados)
 - **R**: Inclinar cámara hacia arriba
 - **F**: Inclinar cámara hacia abajo
-- **V**: Camara 2 **T** y **Y** para manejar Zoom
+- **V**: Camara 2 Opciones **T**: Zoom in **Y**: Zomm out
 - **B**: Camara 1 
 
 - **Mouse Wheel**: Zoom dinámico // por implementar
