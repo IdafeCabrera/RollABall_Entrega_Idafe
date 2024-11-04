@@ -258,5 +258,5 @@ Ideas generales dinamicas por el autor, para implementarnas utilice todas las he
 
 Terminar de mejorar y pulir todo lo relacionado con el video juego, utilizando principios SOLID y CLEAN CODE, para llegar a una versión completa de al menos 5 niveles y un nivel tipo BONUS.
 
-Referencias y guiños a videojuegos existentes que se quiere conseguir a SONIC y SUPER MARIO BROS.
+Se intenta conseguir tener referencias y guiños a videojuegos que marcaron a mi generación, entre ellos los más conocidos,  SONIC y SUPER MARIO BROS.
 
