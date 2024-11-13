@@ -247,7 +247,7 @@ Tiburcio Cruz Ravelo
 
 A falta de mostrar unos creditos de los assets utilizados, que por ahora solo son el personaje del fantasma.
 
-Todas las imagenes de la UI/UX han sido generadas por AI y la canción cuando recoges todos los anillas por AI (www.sonoai.ai)
+Todas las imagenes de la UI/UX han sido generadas por AI y la canción cuando recoges todos los anillas por AI (www.sunoai.ai)
 
 Lo demás esta libre de derecho de autor, a falta de una comprobación exhaustiva.
 
